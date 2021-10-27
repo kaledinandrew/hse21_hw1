@@ -101,3 +101,15 @@ $ rm pe1.fastq.trimmed pe2.fastq.trimmed mp1.fastq.int_trimmed mp2.fastq.int_tri
 
 ## Colab с анализом файлов ##
 https://colab.research.google.com/drive/1PNGioxrFurz_mejnZ8NF3q8NmGZupiUP?usp=sharing
+
+## Сравнение качества исходных и подрезанных чтений ##
+
+### Исходные данные ###
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic1.png" style="zoom:50%;" />
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic2.png" style="zoom:50%;" />
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic3.png" style="zoom:50%;" />
+
+### Подрезанные данные ###
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic4.png" style="zoom:50%;" />
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic5.png" style="zoom:50%;" />
+<img src="https://github.com/kaledinandrew/hse21_hw1/blob/main/img/pic6.png" style="zoom:50%;" />
