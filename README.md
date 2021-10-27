@@ -99,3 +99,5 @@ multiqc		              pe2.fastq.trimmed	          Poil_lib2_insFreq.tsv   trimm
 $ rm pe1.fastq.trimmed pe2.fastq.trimmed mp1.fastq.int_trimmed mp2.fastq.int_trimmed
 ```
 
+## Colab с анализом файлов ##
+https://colab.research.google.com/drive/1PNGioxrFurz_mejnZ8NF3q8NmGZupiUP?usp=sharing
